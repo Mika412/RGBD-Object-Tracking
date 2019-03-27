@@ -16,7 +16,12 @@ To run the prject you need to have installed:
 * Image Processing Toolbox for Matlab;
 * DBSCAN Clustering Algorithm for Matlab;
 
-### 3. Group Members
+### 3. Results
+
+<img src="https://github.com/Mika412/RGBD-Object-Tracking/blob/master/images/Result1.PNG" width="500"/>
+<img src="https://github.com/Mika412/RGBD-Object-Tracking/blob/master/images/Result2.PNG" width="250"/>
+
+### 4. Group Members
 
 * Carlos Vala
 * Mykhaylo Marfeychuk
